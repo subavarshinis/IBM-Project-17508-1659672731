@@ -11,9 +11,9 @@ Fertilizers Recommendation System For Disease Prediction
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
 >   * [Title / Repository Name](#Fertilizers Recommendation System For Disease Prediction)
->   * [Table of contents](#table-of-contents)
->   * [Empathy Map](#Empathy Map)
->   * [Literature Review](#Literature Review)
+>       * [Table of contents](#table-of-contents)
+>           * [Empathy Map](#Empathy Map)
+    >       * [Literature Review](#Literature Review)
 
 
 # Fertilizers Recommendation System For Disease Prediction
