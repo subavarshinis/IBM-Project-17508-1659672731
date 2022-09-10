@@ -6,7 +6,7 @@ Detection and recognition of plant diseases using machine learning are very effi
 
 ## Problem Statement
 
-![badmath](![badmath](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png))
+![badmath](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png)
 
 ## Empathy Map
 
