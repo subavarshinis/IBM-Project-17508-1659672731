@@ -10,9 +10,9 @@ Fertilizers Recommendation System For Disease Prediction
 
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
->   *[Fertilizers Recommendation System For Disease Prediction]
+>   Fertilizers Recommendation System For Disease Prediction
 >   
->       * [Table of contents](#table-of-contents) 
+>       * [Table of contents]
 >       
 >           * [Problem Statement] - [ https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/Problem_Statement_Fertilizer_recomentation_system_for_disease_prediction.pdf ]
 >           
