@@ -6,7 +6,7 @@ Detection and recognition of plant diseases using machine learning are very effi
 
 ## Problem Statement
 
-![badmath](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png)
+![badmath](https://raw.githubusercontent.com/IBM-EPBL/IBM-Project-17508-1659672731/481bcb840c3af0a178386aba3d4482c179c7db63/Problem_Statement_Fertilizer_recomentation_system_for_disease_prediction.pdf)
 
 ## Empathy Map
 
