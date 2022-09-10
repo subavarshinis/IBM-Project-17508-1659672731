@@ -12,8 +12,9 @@ Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
 >   * [Title / Repository Name](#Fertilizers Recommendation System For Disease Prediction)
 >       * [Table of contents](#table-of-contents)
->           * [Empathy Map] ![badmath](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png)
-    >       * [Literature Review] 
+>           * [Problem Statement] https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/Problem_Statement_Fertilizer_recomentation_system_for_disease_prediction.pdf   
+>           * [Empathy Map] https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png
+    >       * [Literature Review] https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/IBM_literature%20_survey.pdf
 
 
 # Fertilizers Recommendation System For Disease Prediction
