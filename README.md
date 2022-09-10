@@ -6,7 +6,7 @@ Detection and recognition of plant diseases using machine learning are very effi
 
 ## Badges
 
-![badmath](![image](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png))
+![badmath](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png)
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
