@@ -4,6 +4,14 @@ Fertilizers Recommendation System For Disease Prediction
 
 Detection and recognition of plant diseases using machine learning are very efficient in pro-viding symptoms of identifying diseases at its earliest. Plant pathologists can analyze the dig-ital images using digital image processing for diagnosis of plant diseases. Application of computer vision and image processing strategies simply assist farmers in all of the regions of agriculture. Generally, the plant diseases are caused by the abnormal physiological functio-nalities of plants. Therefore, the characteristic symptoms are generated based on the differen-tiation between normal physiological functionalities and abnormal physiological functionali-ties of the plants. Mostly, the plant leaf diseases are caused by Pathogens which are posi-tioned on the stems of the plants. These different symptoms and diseases of leaves are pre-dicted by different methods in image processing. These different methods includedifferent fundamental processes like segmentation, feature extraction and classification and so on. Mostly, the prediction and diagnosis of leaf diseases are depending on the segmentation such as segmenting the healthy tissues from diseased tissues of leaves.
 
+## Badges
+
+![badmath](![image](https://user-images.githubusercontent.com/87495210/189498124-818e4c89-cfda-4961-bd84-85d1c1ab10d2.png))
+
+Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+
+## Features
+
 
 ## Literature Review
 
