@@ -1,6 +1,6 @@
 # IBM-Project-17508-1659672731
 Fertilizers Recommendation System For Disease Prediction
-# Project Title
+# Fertilizers Recommendation System For Disease Prediction
 
 A short description about the project and/or client.
 
