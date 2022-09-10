@@ -1,10 +1,8 @@
 
 # IBM-Project-17508-1659672731
 Fertilizers Recommendation System For Disease Prediction
-## About / Synopsis
 
-* What is it, what does it do / Abstract
-* Project status: prototype
+* Project status: Prototype
 
 ## Table of contents
 
