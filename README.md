@@ -76,7 +76,7 @@ in the image. We intend to add these features and fix thesegaps in our upcoming 
 
 [3] Ms. Kiran R. Gavhale, Ujwalla Gawande, Plant Leaves Disease detection using Image 
 Processing Techniques, January 2014.
-https://www.researchgate.net/profile/UjwallaGawande/publication/314436486_An_Overview_of_the_Research_on_Plant_Leaves_Disease_detection_using_Image_Processing_Techniques/links/5d3710664585153e591a3d20/An-Overview￾of-the-Research-on-Plant-Leaves-Diseae detection-using-Image-Processing￾Techniques.pdf
+https://www.researchgate.net/profile/UjwallaGawande/publication/314436486_An_Overview_of_the_Research_on_Plant_Leaves_Disease_detection_using_Image_Processing_Techniques/links/5d3710664585153e591a3d20/An-Overview-of-the-Research-on-Plant-Leaves-Diseae detection-using-Image-Processing￾Techniques.pdf
 
 [4] Duan Yan-e, Design of Intelligent Agriculture Management Information System Based on 
 IOTǁ, IEEE,4th, Fourth International reference on Intelligent Computation Technology and Automation, 2011
