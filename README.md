@@ -45,55 +45,19 @@ provide the availability of the same on the popular shopping websites, and possi
 Disadvantages : To provide fine-grained segmentations of the diseased portion of the dataset. this is not possible due to lack of such data. However, in our application,we can integrate a segmentation annotation tool where theusers might be able to help us with the lack. Also, we can usesome unsupervised algorithms to pin-point the diseased areas
 in the image. We intend to add these features and fix thesegaps in our upcoming work. 
 
+## References:
 
-### Prerequisites
+[1] Semi-automatic leaf disease detection and classification system for soybean culture IET Image Processing, 2018
+[2] Cloud Based Automated Irrigation And Plant Leaf Disease Detection System Using An Android Application. International Conference on Electronics, Communication and Aerospace Technology, ICECA 2017.
+[3] Ms. Kiran R. Gavhale, Ujwalla Gawande, Plant Leaves Disease detection using Image 
+Processing Techniques, January 2014.
+https://www.researchgate.net/profile/UjwallaGawande/publication/314436486_An_Overview_of_the_Research_on_Plant_Leaves_Disease_detection_using_Image_Processing_Techniques/links/5d3710664585153e591a3d20/An-Overview￾of-the-Research-on-Plant-Leaves-Diseae detection-using-Image-Processing￾Techniques.pdf [4] Duan Yan-e, Design of Intelligent Agriculture Management Information System Based on 
+IOTǁ, IEEE,4th, Fourth International reference on Intelligent Computation Technology and Automation, 2011
+https://ieeexplore.ieee.org/document/5750779 [5] R. Neela, P. Fertilizers Recommendation System For Disease Prediction In Tree Leave International journal of scientific & technology research volume 8, issue 11, november 2019
+http://www.ijstr.org/final-print/nov2019/Fertilizers-Recommendation-System-For-Disease-Prediction-In-Tree-Leave.pdf .
+[6] Swapnil Jori1, Rutuja Bhalshankar2, Dipali Dhamale3, Sulochana Sonkamble , Healthy Farm: Leaf Disease Estimation and Fertilizer Recommendation System using Machine Learning,International Journal of All Research Education and Scientific Methods (IJARESM), ISSN: 2455-6211
+[7] Detection of Leaf Diseases and Classification using Digital Image Processing
+International Conference on Innovations in Information, Embedded and Communication Sys-tems(ICIIECS), IEEE, 
+2017.
+[8] Shloka Gupta ,Nishit Jain ,Akshay Chopade, Farmer’s Assistant: A Machine Learning BasedApplication for Agricultural Solutions.
 
-The things you need before installing the software.
-
-* You need this
-* And you need this
-* Oh, and don't forget this
-
-### Installation
-
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-## Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
