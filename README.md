@@ -95,8 +95,19 @@ International Conference on Innovations in Information, Embedded and Communicati
 
 [8] Shloka Gupta ,Nishit Jain ,Akshay Chopade, Farmer’s Assistant: A Machine Learning BasedApplication for Agricultural Solutions.
 
+##Project Objectives:
+  *Preprocess the images.
 
-## References: 
+  Applying the CNN algorithm to the dataset.
+
+  How deep neural networks detect the disease.
+
+  You will be able to know how to find the accuracy of the model.
+
+  You will be able to build web applications using the Flask framework.
+
+
+## Technical Architecture: 
 
 ![image](https://user-images.githubusercontent.com/89697515/189512983-8f4757ef-6f88-4a87-b3c3-9755d09a61e5.png)
 
