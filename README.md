@@ -32,7 +32,8 @@ An automated system is introduced to identify different diseases on plants by ch
 
 ## Literature Review
 
-[1] The proposed method uses SVM to classify tree leaves, identify the disease and suggest the fertilizer. The proposed method is compared with the existing CNN based leaf disease prediction. The proposed SVM technique gives a better result when compared to existing CNN. For the same set of images, F-Measure for CNN is 0.7and 0.8 for SVM, the accuracy of identification of leaf disease of CNN is 0.6 and SVM is 0.8. Advantages : The prediction and diagnosing of leaf diseases are depending on the segmenta-tion such as segmenting the healthy tissues from diseased tissues of leaves. Disadvantages : This further research is implementing the proposed algorithm with the ex-isting public datasets. Also, various segmentation algorithms can be implemented to improve accuracy. The proposed algorithm can be modified further to identify the disease that affects the various plant organs such as stems and fruits. 
+[1] The proposed method uses SVM to classify tree leaves, identify the disease and suggest the fertilizer. The proposed method is compared with the existing CNN based leaf disease prediction. The proposed SVM technique gives a better result when compared to existing CNN. For the same set of images, F-Measure for CNN is 0.7and 0.8 for SVM, the accuracy of identification of leaf disease of CNN is 0.6 and SVM is 0.8.
+##Advantages : The prediction and diagnosing of leaf diseases are depending on the segmenta-tion such as segmenting the healthy tissues from diseased tissues ofleaves. Disadvantages : This further research is implementing the proposed algorithm with the ex-isting public datasets. Also, various segmentation algorithms can be implemented to improve accuracy. The proposed algorithm can be modified further to identify the disease that affects the various plant organs such as stems and fruits. 
 
 [2] Detection of Leaf Diseases and Classification using Digital Image Processing
 International Conference on Innovations in Information, Embedded and Communication Systems(ICIIECS), IEEE, 
@@ -95,7 +96,7 @@ International Conference on Innovations in Information, Embedded and Communicati
 
 [8] Shloka Gupta ,Nishit Jain ,Akshay Chopade, Farmer’s Assistant: A Machine Learning BasedApplication for Agricultural Solutions.
 
-##Project Objectives:
+## Project Objectives:
 
   1.Preprocess the images.
 
