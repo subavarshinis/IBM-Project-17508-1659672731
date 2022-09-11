@@ -95,6 +95,8 @@ International Conference on Innovations in Information, Embedded and Communicati
 
 [8] Shloka Gupta ,Nishit Jain ,Akshay Chopade, Farmer’s Assistant: A Machine Learning BasedApplication for Agricultural Solutions.
 
-##Technical Architecture 
+
+## References: 
+
 ![image](https://user-images.githubusercontent.com/89697515/189512983-8f4757ef-6f88-4a87-b3c3-9755d09a61e5.png)
 
