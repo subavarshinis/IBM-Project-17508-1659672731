@@ -4,7 +4,7 @@ Fertilizers Recommendation System For Disease Prediction
 
 ## Fertilizers Recommendation System For Disease Prediction
 
-* Project status: Prototype
+* Project status: Prototype !
 
 ## Table of contents
 
