@@ -5,8 +5,6 @@
 
 
 
-
-
 ## Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/oKiP7O9np5HaX6kquk/giphy.gif?cid=790b76114b2e5472e311decc924c5dec4e049967cb33cc2d&rid=giphy.gif&ct=s" width="30px">
 
 ## MOTIVATION <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -24,7 +22,7 @@
 
 * Project status: Prototype !
 
-## Project workflow <img src="http://uab.edu/it" width="30px">
+## Project workflow <img src="[http://uab.edu/it](https://media0.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=790b761171b7dcbb1aed1f47758f1853d5ba78e9d3a21f64&rid=giphy.gif&ct=s)" width="30px">
 
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
