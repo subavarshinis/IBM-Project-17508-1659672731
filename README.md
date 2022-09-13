@@ -31,15 +31,15 @@ Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
 >## Project Objectives:
 
-  1.Preprocess the images.
+        1. Preprocess the images.
 
-  2.Applying the CNN algorithm to the dataset.
+        2. Applying the CNN algorithm to the dataset.
 
-  3.How deep neural networks detect the disease.
+        3. How deep neural networks detect the disease.
 
-  4.You will be able to know how to find the accuracy of the model.
+        4. You will be able to know how to find the accuracy of the model.
 
-  5.You will be able to build web applications using the Flask framework.   
+        5. You will be able to build web applications using the Flask framework.   
   
 ## Introduction
 
