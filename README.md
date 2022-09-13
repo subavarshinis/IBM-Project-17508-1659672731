@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="[image-url-here](https://i.postimg.cc/HnQSb20b/IBM.jpg)" />
+ <img src="https://i.postimg.cc/HnQSb20b/IBM.jpg" />
 </h1>
 
 
