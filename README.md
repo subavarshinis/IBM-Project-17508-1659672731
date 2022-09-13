@@ -24,13 +24,13 @@
 
 * Project status: Prototype !
 
-## Project workflow
+## Project workflow <img src="http://uab.edu/it" width="30px">
 
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
 >   Fertilizers Recommendation System For Disease Prediction
 >   
->       * Project Progress <iframe src="https://giphy.com/embed/VdoIFLsMIlwzfKD520" width="480" height="480" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/stickers/UAB-IT-tech-technology-uabit-VdoIFLsMIlwzfKD520">via GIPHY</a></p>
+>       * Project Progress 
 >       
 >           * [Problem Statement] - [ https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/Problem_Statement_Fertilizer_recomentation_system_for_disease_prediction.pdf ]
 >           
