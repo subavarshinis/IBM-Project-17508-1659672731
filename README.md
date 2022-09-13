@@ -1,6 +1,6 @@
 ## Fertilizers Recommendation System For Disease Prediction 🌿
 
-## MOTIVATION <img src="https://user-images.githubusercontent.com/87495210/189839984-93892c02-8be0-48b3-b3f0-c0a6b6cf015c.png" width="30px">
+## MOTIVATION <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - Farming is one of the major sectors that influences a country’s economic growth. 
 
 - In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield. 
