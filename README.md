@@ -22,7 +22,7 @@
 
 * Project status: Prototype !
 
-## Project workflow <img src="https://i.gifer.com/XOsX.gif" width="30px">
+## Project workflow <img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
 
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
