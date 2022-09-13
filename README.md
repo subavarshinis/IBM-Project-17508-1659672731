@@ -1,6 +1,5 @@
-<h1 align="fill">
- <img src="https://i.postimg.cc/W4jkVk30/IBM1.gif" />
-</h1>
+<img src="https://i.postimg.cc/W4jkVk30/IBM1.gif" width="30px">
+
 
 <h1 align="fill">
  <img src="https://i.postimg.cc/HnQSb20b/IBM.jpg" />
