@@ -36,7 +36,7 @@ Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 >           
 >           * [Literature Review] - [ https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/IBM_literature%20_survey.pdf ]
 
->## Project Objectives:
+>## Project Objectives: <img src="https://media3.giphy.com/media/PiAjGFVGKd9vvhrxLa/giphy.gif?cid=ecf05e47q3eaer6sqflvudf7hihc8qzeq95zw7nga3pcbccc&rid=giphy.gif&ct=s" width="30px">
 
         1. Preprocess the images.
 
