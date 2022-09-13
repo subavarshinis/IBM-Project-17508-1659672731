@@ -24,7 +24,7 @@
 
 * Project status: Prototype !
 
-## Table of contents
+## Process Stages 
 
 Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
