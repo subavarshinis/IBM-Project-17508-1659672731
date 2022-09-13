@@ -5,7 +5,7 @@
 
 
 
-## Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/oKiP7O9np5HaX6kquk/giphy.gif?cid=790b76114b2e5472e311decc924c5dec4e049967cb33cc2d&rid=giphy.gif&ct=s" width="30px">
+## Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="60px">
 
 ## MOTIVATION <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - Farming is one of the major sectors that influences a country’s economic growth. 
