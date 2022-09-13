@@ -1,8 +1,9 @@
 <h1 align="center">
  <img src="https://i.postimg.cc/HnQSb20b/IBM.jpg" />
 </h1>
-
-
+<br>
+<br>
+<br>
 ## Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/oKiP7O9np5HaX6kquk/giphy.gif?cid=790b76114b2e5472e311decc924c5dec4e049967cb33cc2d&rid=giphy.gif&ct=s" width="30px">
 
 ## MOTIVATION <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
