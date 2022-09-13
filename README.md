@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="fill">
  <img src="https://i.postimg.cc/HnQSb20b/IBM.jpg" />
 </h1>
 
