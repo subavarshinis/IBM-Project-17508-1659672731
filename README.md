@@ -30,7 +30,7 @@ Use for instance <https://github.com/IBM-EPBL/IBM-Project-17508-1659672731>:
 
 >   Fertilizers Recommendation System For Disease Prediction
 >   
->       * Project Progress <img src="https://i.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.webp" width="30px">
+>       * Project Progress <img src="https://media0.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif?cid=ecf05e4718qzcm0rnb6rpdizx2f3seigv4pf750olcrfi3do&rid=giphy.gif&ct=s" width="30px">
 >       
 >           * [Problem Statement] - [ https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/Problem_Statement_Fertilizer_recomentation_system_for_disease_prediction.pdf ]
 >           
